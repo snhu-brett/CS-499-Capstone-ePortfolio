@@ -17,10 +17,11 @@ In categories such as software engineering, I gained more experience in designin
 
 ## Preparation for Professional Endeavors
 
+Developing my ePortfolio has helped to bring my skills together in a more cohesive representation of my current skillset. It demonstrates not only what I have built so far, but what I also think. The process of reviewing and enhancing my work has allowed me to see my previous flaws and improve existing systems and apply more advanced techniques to them. I have become more confident in my ability to design and implement real-world applciations. I have also developed a clearer understanding of my professional goals, which include continuing to grow more as a software developer, since I find it very interesting. The combination of coursework and more advanced projects has prepared me to be able to contribute more in a professional environment.
 
+## Artifact Overview
 
-
-
+The artifact I used for every section of my enhancements came from a previous course and is called the Travlr Getaways project. It represents different areas of my development as a computer scientist as well as work together to demonstrate a more complete skillset. The artifact allows users to view different trips for traveling, inclduing the price, stay time, resort, and images. The entire artifact allows me to demonstrate my ability to improve efficiency, build full-stack applications, showcase my understanding of data integrity, as well as showcase an understanding of backend systems. This artifat shows how I can approach problems, implement the soluations to those problems, as well as slowly improve a system over time. This demonstrates my ability to integrate multiple concepts into one cohesive project.
 
 ---
 # Software Design and Engineering Artifact Narrative
