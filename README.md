@@ -69,3 +69,10 @@ I include this artifact because it provides a strong opportunity to demonstrate 
 I learned that database deisng has a significant impact on the stability of an application. One challenge I faced in the beginning was aligning frontend and backend data formats, specifically when converting data types and ensuring compatibility. I had to carefully update existing data to match the new schema without introducing new bugs. Feedback helped me focus on improving the integrity of the data rather than just the functionality. The artifact was improved by making the database more reliable, which allowed me to meet outcomes related to database management, security, and implementation.
 
 ---
+# Code Review
+
+
+---
+# Side Notes
+
+Originally, when I uploaded the project, I didn't know how to use GitHub very well. This is shown by my original artifact being uploaded in an unorganized fashion with no folders or explanations. I have uploaded my improved project in its own folder in order to better identify it. I have decided to keep this minor quirk to show not only my growth through the Computer Science course, but also my improvement in using an application in real-time.
