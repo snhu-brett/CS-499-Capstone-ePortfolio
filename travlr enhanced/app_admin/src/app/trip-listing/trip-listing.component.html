@@ -1,0 +1,46 @@
+<div class="mb-3 d-flex gap-2 flex-wrap">
+  <button *ngIf="isLoggedIn()" class="btn btn-info" (click)="addTrip()">Add Trip</button>
+
+  <input
+    type="text"
+    class="form-control w-auto"
+    [(ngModel)]="searchTerm"
+    placeholder="Search trips"
+  />
+
+  <select
+    class="form-control w-auto"
+    [(ngModel)]="sortOption"
+  >
+    <option value="nameAsc">Name A-Z</option>
+    <option value="nameDesc">Name Z-A</option>
+    <option value="resortAsc">Resort A-Z</option>
+    <option value="resortDesc">Resort Z-A</option>
+  </select>
+
+  <button class="btn btn-secondary" (click)="applyFilters()">Apply</button>
+</div>
+
+<div *ngIf="message" class="mb-3 text-light">
+  {{ message }}
+</div>
+
+<div *ngIf="errorMessage" class="alert alert-danger">
+  {{ errorMessage }}
+</div>
+
+<div class="row">
+  <div class="col-md-4 mb-4" *ngFor="let trip of trips">
+    <app-trip-card [trip]="trip"></app-trip-card>
+  </div>
+</div>
+
+<div class="d-flex gap-2 mt-3">
+  <button class="btn btn-outline-light" (click)="previousPage()" [disabled]="currentPage === 1">
+    Previous
+  </button>
+
+  <button class="btn btn-outline-light" (click)="nextPage()" [disabled]="currentPage === totalPages">
+    Next
+  </button>
+</div>
