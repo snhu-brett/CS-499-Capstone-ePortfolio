@@ -71,6 +71,7 @@ I learned that database deisng has a significant impact on the stability of an a
 ---
 # Code Review
 
+https://youtu.be/rdBxUQUmRnk
 
 ---
 # Side Notes
