@@ -8,10 +8,23 @@ The artifact I selected for this specific category of enhancement was my Travlr 
 
 ## Justification for Inclusion in the ePortfolio
 
-I chose to include this artifact because it demonstrated my ability to deisgn and implement a complete software system using modern tools. The application itself showcases key components of software design which includes modula architecture, separation of concerns between frontend and backend, as well as the use of services to manage data flow. For the enhancement, I improved the overall structure and usability of the application by refining the authentication, improving the error handling, and ensuring a consistent data flow between the componenets. I also corrected issues in the edit functionality and improved form validation in both the add and edit features. These changes demonstrate an ability to build maintainable and scalable applications while still focusing on reliability.
+I chose to include this artifact because it demonstrated my ability to deisgn and implement a complete software system using modern tools. The application itself showcases key components of software design which includes modula architecture, separation of concerns between frontend and backend, as well as the use of services to manage data flow. For the enhancement, I improved the overall structure and usability of the application by refining the authentication, improving the error handling, and ensuring a consistent data flow between the componenets. I also corrected issues in the edit functionality and improved form validation in both the add and edit features. These changes demonstrate an ability to build maintainable and scalable applications while still focusing on reliability. I demonstrated my baility to design, develop, and deliver professional-quality solutionst o different problems as well as use modern tools and techniques such as Angular services, routing, and reactive forms. I showed progress towards building systems that support collaborative environemnts, as the imrpoved structure makes the application easier to understand. 
 
 ## Reflection on the Enhancement Process
 
 While enhancing the artifact, I learned more of the importance of structuring code in a way that makes it able to be maintained over a long period of time. One of the biggest challenges I faced was debugging issues which was related to routing and form handling, particularly in ensuring that the correct data was being passed between different componenets. This process helped me better understand how small design flaws can impact the overall experience regardless of how small they seem. The artfiact was improved by making it more stable, secure, and easier to extend, which allowed me to meet several course outcomes in software design. I still aim to strengthen my ability to design systems specifically for larger environements.
 ---
 # Algorithms and Data Structures Artifact Narrative
+
+## Brief Description of the Artifact
+
+The artifact I selected for this specific category of enhancement was my Travlr Getaways full-stack development web application. It was used in one of my previous courses, and it fit well for every enhancement category. It was originally created to allow users to view travel packages and for administrators to add and edit trips.
+
+## Justification for Inclusion in the ePortfolio
+
+I included this artifact since it allows me to demonstrate my ability to apply algorithmic thinking to improve applications in the real-world. I implemenetd searching, sorting, and pagination features to the application for this enhancement. The search functionality allows users to filter trips based on keywords, while sorting enables the data to be organized in different ways such as alphabetically. Pagination limits the amount of results that can show up at once, which improves performacne and readability. These changes required modifications to both backend queries and frontend logic, demonstrating and understanding of how algorithms interact with the data itself. This enhancement demonstrates my ability to design and evaluate computing solutions using different algorithmic principles, specifically in managing trade-offs between performance and simplicity. I showed an ability to use modern tools and techniques efficiently as well, including Angular and MongoDB query features.
+
+## Reflection on the Enhancement Process
+
+During the process, I learned better that efficient data handling is important for scaling applications. One challenge I ran into was ensuring that the search, sorting, and pagination worked without conflict. I also had to carefully structure the queries to avoid any unnecessary processing of data. Feedback helped guide me more towards focusing on performance as well as functionality. The artifact was improved more by making it more efficient and user-friendly, and it helped to meet outcomes related to algorithmic design and data structures.
+---
