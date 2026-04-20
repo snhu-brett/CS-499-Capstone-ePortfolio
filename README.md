@@ -28,3 +28,17 @@ I included this artifact since it allows me to demonstrate my ability to apply a
 
 During the process, I learned better that efficient data handling is important for scaling applications. One challenge I ran into was ensuring that the search, sorting, and pagination worked without conflict. I also had to carefully structure the queries to avoid any unnecessary processing of data. Feedback helped guide me more towards focusing on performance as well as functionality. The artifact was improved more by making it more efficient and user-friendly, and it helped to meet outcomes related to algorithmic design and data structures.
 ---
+# Databases Artifact Narrative
+
+## Brief Description of the Artifact
+
+The artifact I selected for this specific category of enhancement was my Travlr Getaways full-stack development web application. It was used in one of my previous courses, and it fit well for every enhancement category. It was originally created to allow users to view travel packages and for administrators to add and edit trips.
+
+## Justification for Inclusion in the ePortfolio
+
+I include this artifact because it provides a strong opportunity to demonstrate my ability to design and manage databases more efficiently. I improved the schema by enforcing validation rules, esnruing required fields were present, and correcting data types by converting 'perPerson' from a string to a number. I also added full CRUD functionality by adding the ability to delete trips and improving the update logic. These changes ensured that the data stored in the database is accurate, consistent, and reliable. This demonstrates my ability to use modern tools and techniques, particularly in the database design and validation. I also showed more progress towards developing a security mindset by ensuring that only authenticated users can modify or delete data. Proper data validation is critical in real-world scenarios and applications, so this supports the ability to create professional-quality systems. 
+
+## Reflection on the Enhancement Process
+
+I learned that database deisng has a significant impact on the stability of an application. One challenge I faced in the beginning was aligning frontend and backend data formats, specifically when converting data types and ensuring compatibility. I had to carefully update existing data to match the new schema without introducing new bugs. Feedback helped me focus on improving the integrity of the data rather than just the functionality. The artifact was improved by making the database more reliable, which allowed me to meet outcomes related to database management, security, and implementation.
+---
