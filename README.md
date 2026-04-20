@@ -9,6 +9,16 @@ Throughout my time in the Computer Science program, I have developed a strong fo
 
 ## Collaboration and Communication
 
+I developed some skills in communication and collaboration through multiple different courses. Even when working independently, many assignements would require me to think from a team perspective, or were based around an organization itself. I learned better how to write clear documentation, structure my code in a way that others are able to understand, as well as explain technical concepts in a way that is accessible to different audiences. Communication with stakeholders was also simulated through discussion forums and writing exercises involving e-mails. I had to consider both the user experience and the administrator functionality in my full-stack development projects, since it wasn't just either or. This required me to think more about the different users and how they would experience the system itself. Questions came to mind about what they would be accessing the application from, the flow of the application, and other features that would need to be tailored to different needs. Writing reports, creating documentation, and explaining design choices became second nature throughout the program. They helped to strengthen my ability to communicate technical information effectively and professionally. 
+
+## Development of Technical Skills
+
+In categories such as software engineering, I gained more experience in designing full-stack applications using modern technologies like Angular, Node.js, and Express. I learned better how to structure applications using modular design principals, separate concerns between the front and backend systems, as well as build maintainable code. Lots of testing became an integral part of my process. For algorithms and data structures, I better developed my ability to deisng efficient solutions and understand the impact performance itself has on applications. I learned how to implement and improve algorithms through projects that involved sorting and optimization. In databases, I worked with MongoDB and learned how to design schemas, enforce validation, and ensure data integrity on multiple projects. I improved my understanding of CRUD operations and how the backend systems interact with the database. Security also became an important concern, and I began to develop a more security-focused mindset throughout the course by learning how to protect sensitive data, implementing authentication, and restricting access to certain actions.
+
+## Preparation for Professional Endeavors
+
+
+
 
 
 
