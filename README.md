@@ -1,4 +1,17 @@
 # CS-499 Capstone ePortfolio
+
+---
+# Professional Self-Assessment
+
+## Program Reflection
+
+Throughout my time in the Computer Science program, I have developed a strong foundation in theory as well as practical concepts. I have improved vastly in terms of knowledge and know-how when compared to before the start. Completing the courseowrk and building my ePortfolio has helped me to identify strengths, weaknesses, and refine my professional goals. I have moved from simply writing functional code to designing systems that have a strong structure, are efficient, as well as being maintainable. This shift has helped prepare me to enter the professional space of Computer Science. One of the most valuable aspects of hte program to me was learning how to approach problems from multiple different perspectives. In the beginning, I focused solely on just trying to achieve working code, but it would end up being inefficient and unreliable. Through more advanced projects and courses, I learned the importance of planning, testing, and then further refinement of code. For projects involving reinforcement learning and algorithm design, I had to think critically about efficiency and trade-offs. I had one such project in the form of refining an algorithm for a chess-playing application. This strengthened my ability to evaluate computing solutions and apply appropriate techniques based on the problem itself.
+
+## Collaboration and Communication
+
+
+
+
 ---
 # Software Design and Engineering Artifact Narrative
 
