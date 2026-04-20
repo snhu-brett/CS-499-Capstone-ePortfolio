@@ -13,6 +13,7 @@ I chose to include this artifact because it demonstrated my ability to deisgn an
 ## Reflection on the Enhancement Process
 
 While enhancing the artifact, I learned more of the importance of structuring code in a way that makes it able to be maintained over a long period of time. One of the biggest challenges I faced was debugging issues which was related to routing and form handling, particularly in ensuring that the correct data was being passed between different componenets. This process helped me better understand how small design flaws can impact the overall experience regardless of how small they seem. The artfiact was improved by making it more stable, secure, and easier to extend, which allowed me to meet several course outcomes in software design. I still aim to strengthen my ability to design systems specifically for larger environements.
+
 ---
 # Algorithms and Data Structures Artifact Narrative
 
@@ -27,6 +28,7 @@ I included this artifact since it allows me to demonstrate my ability to apply a
 ## Reflection on the Enhancement Process
 
 During the process, I learned better that efficient data handling is important for scaling applications. One challenge I ran into was ensuring that the search, sorting, and pagination worked without conflict. I also had to carefully structure the queries to avoid any unnecessary processing of data. Feedback helped guide me more towards focusing on performance as well as functionality. The artifact was improved more by making it more efficient and user-friendly, and it helped to meet outcomes related to algorithmic design and data structures.
+
 ---
 # Databases Artifact Narrative
 
@@ -41,4 +43,5 @@ I include this artifact because it provides a strong opportunity to demonstrate 
 ## Reflection on the Enhancement Process
 
 I learned that database deisng has a significant impact on the stability of an application. One challenge I faced in the beginning was aligning frontend and backend data formats, specifically when converting data types and ensuring compatibility. I had to carefully update existing data to match the new schema without introducing new bugs. Feedback helped me focus on improving the integrity of the data rather than just the functionality. The artifact was improved by making the database more reliable, which allowed me to meet outcomes related to database management, security, and implementation.
+
 ---
